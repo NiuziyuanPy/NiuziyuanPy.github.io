@@ -1,0 +1,67 @@
+/* #web_bg{
+    background: url("https://ae01.alicdn.com/kf/H18a4b998752a4ae68b8e85d432a5aef0l.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("https://ae01.alicdn.com/kf/H21b5f6b8496141a1979a33666e1074d9x.jpg");
+} */
+
+/* https://ae01.alicdn.com/kf/H21b5f6b8496141a1979a33666e1074d9x.jpg */
+
+/* https://mbridge-uat.oss-cn-shenzhen.aliyuncs.com/ew/pt/co/101073/other/20230104/202301041544546863143/6e501611880511ebb6edd017c2d2eca2.jpg */
+
+#web_bg {
+    background: -webkit-linear-gradient(
+      0deg,
+      rgba(247, 149, 51, 0.1) 0,
+      rgba(243, 112, 85, 0.1) 15%,
+      rgba(239, 78, 123, 0.1) 30%,
+      rgba(161, 102, 171, 0.1) 44%,
+      rgba(80, 115, 184, 0.1) 58%,
+      rgba(16, 152, 173, 0.1) 72%,
+      rgba(7, 179, 155, 0.1) 86%,
+      rgba(109, 186, 130, 0.1) 100%
+    );
+    background: -moz-linear-gradient(
+      0deg,
+      rgba(247, 149, 51, 0.1) 0,
+      rgba(243, 112, 85, 0.1) 15%,
+      rgba(239, 78, 123, 0.1) 30%,
+      rgba(161, 102, 171, 0.1) 44%,
+      rgba(80, 115, 184, 0.1) 58%,
+      rgba(16, 152, 173, 0.1) 72%,
+      rgba(7, 179, 155, 0.1) 86%,
+      rgba(109, 186, 130, 0.1) 100%
+    );
+    background: -o-linear-gradient(
+      0deg,
+      rgba(247, 149, 51, 0.1) 0,
+      rgba(243, 112, 85, 0.1) 15%,
+      rgba(239, 78, 123, 0.1) 30%,
+      rgba(161, 102, 171, 0.1) 44%,
+      rgba(80, 115, 184, 0.1) 58%,
+      rgba(16, 152, 173, 0.1) 72%,
+      rgba(7, 179, 155, 0.1) 86%,
+      rgba(109, 186, 130, 0.1) 100%
+    );
+    background: -ms-linear-gradient(
+      0deg,
+      rgba(247, 149, 51, 0.1) 0,
+      rgba(243, 112, 85, 0.1) 15%,
+      rgba(239, 78, 123, 0.1) 30%,
+      rgba(161, 102, 171, 0.1) 44%,
+      rgba(80, 115, 184, 0.1) 58%,
+      rgba(16, 152, 173, 0.1) 72%,
+      rgba(7, 179, 155, 0.1) 86%,
+      rgba(109, 186, 130, 0.1) 100%
+    );
+    background: linear-gradient(
+      90deg,
+      rgba(247, 149, 51, 0.1) 0,
+      rgba(243, 112, 85, 0.1) 15%,
+      rgba(239, 78, 123, 0.1) 30%,
+      rgba(161, 102, 171, 0.1) 44%,
+      rgba(80, 115, 184, 0.1) 58%,
+      rgba(16, 152, 173, 0.1) 72%,
+      rgba(7, 179, 155, 0.1) 86%,
+      rgba(109, 186, 130, 0.1) 100%
+    );
+  }
+
+  /* background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%); */
